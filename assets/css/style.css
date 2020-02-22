@@ -1,0 +1,106 @@
+/*-------------------------- Login --------------------------*/
+#login {
+  overflow: hidden;
+}
+
+#login>.login-area {
+  position: absolute;
+  top: 12%;
+  left: 0;
+  width: 100%;
+}
+
+#login button {
+  float: right;
+}
+
+.login-form {
+  border: solid 1px #eaeaea;
+  border-radius: 10px;
+  padding: 30px;
+  margin: auto;
+  overflow: hidden;
+  width: 50%;
+  box-shadow: 5px 10px #eaeaea;
+}
+
+.center {
+  text-align: center;
+}
+/*--------------------------- END ---------------------------*/
+/*--------------------------- NAV ---------------------------*/
+nav.bg-dark {
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+nav.bg-dark>h5{
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size:150%;
+}
+
+nav.bg-dark .dropdown-toggle {
+  color: white;
+}
+
+nav.bg-dark .dropdown-toggle:hover {
+  text-decoration: none;
+  color: #2266F9;
+  transition: ease-out 2s;
+}
+
+nav.navbar img {
+  width: 85px;
+  margin-left: 10px
+}
+
+/*--------------------------- END ---------------------------*/
+/*-------------------------- ASIDE --------------------------*/
+aside.sidebar {
+  position: fixed;
+  z-index: 98;
+  top: 1;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  padding-top: 5em;
+}
+
+aside.sidebar a:hover {
+  color: #eaeaea;
+  transition: ease-out 1s;
+}
+
+ul#dmMenu li, ul#perpusMenu li {
+  list-style: none;
+}
+/*--------------------------- END ---------------------------*/
+/*------------------------- ARTICLE -------------------------*/
+article.table-area {
+  right: 0;
+  position: absolute; 
+  padding-top: 7em;
+}
+
+.box-jml .jml-value {
+  height:  130px;
+  font-size: 50px;
+  text-align: right;
+  padding: 20px 50px 20px;
+}
+
+/*--------------------------- END ---------------------------*/
+/*-------------------------- MODAL --------------------------*/
+img#imgFprofile {
+  width: 200px;
+  height: 300px;
+}
+.center {
+  text-align: center;
+}
+/*--------------------------- END ---------------------------*/
