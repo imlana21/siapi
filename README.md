@@ -1,21 +1,21 @@
-# Tentang Project
+# Sekilas Project
 
-> Project ini dibuat untuk memenuhi tugas materi "Pemrograman Web Lanjut". 
+SIAPI merupakan kepanjangan dari Sistem Informasi Akademik PonPes Inay. Tujuan pembuatan project ini yaitu untuk memenuhi tugas materi "Pemrograman Web Lanjut". 
 
 
 # Bahasa
 
-1. PHP
+1. [PHP](https://www.php.net/)
 2. JavaScript
 3. SQL
 
 
 # Library
 
-1. Bootstrap
-2. Jquery
-3. DataTable
-4. CodeIgniter
+1. [Bootstrap](https://getbootstrap.com/)
+2. [Jquery](https://api.jquery.com/)
+3. [DataTable](https://datatables.net/)
+4. [CodeIgniter](https://codeigniter.com/)
 
 
 # Metode
